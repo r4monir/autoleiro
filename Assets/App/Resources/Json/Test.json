@@ -1,0 +1,17 @@
+﻿[
+    {
+        "desc": "Quem é <b>ateu</b> bebe. <size=75%><alpha=#66><i>DEUS NÃO EXISTE!</i></size=75%>",
+        "lvl": 1,
+        "repeats": 1
+    },
+    {
+        "desc": "se <b>{player}</b> for <b>ateu</b> bebe {sort(0-5)} doses. <size=80%><i>DEUS NÃO EXISTE!</i></size=80%>",
+        "lvl": 1,
+        "repeats": 1
+    },
+    {
+        "desc": "se {player} for <b>ateu</b> bebe {sort(0-5)} doses. <alpha=#88><i>DEUS NÃO EXISTE!</i>",
+        "lvl": 1,
+        "repeats": 1
+    }
+]

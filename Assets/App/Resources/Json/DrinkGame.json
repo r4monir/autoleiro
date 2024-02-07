@@ -1,0 +1,929 @@
+﻿[
+    {
+        "desc": "Beba 1 dose",
+        "lvl": 1,
+        "repeats": 4 
+    },
+    {
+        "desc": "Beba 1 dose",
+        "lvl": 2,
+        "repeats": 4 
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem não mora na região bebe",
+        "lvl": 1,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem tiver idade ímpar bebe",
+        "lvl": 1,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem tiver idade par bebe",
+        "lvl": 2,
+        "repeats": 1 
+    },
+    {
+        "desc": "Você não bebe a próxima vez que tiver que beber",
+        "lvl": 2,
+        "repeats": 1 
+    },
+    {
+        "desc": "A partir de agora você só pode falar com sotaque (a maldição acaba quando for você de novo)",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Você não bebe a próxima vez que tiver que beber",
+        "lvl": 2,
+        "repeats": 1
+    },
+    {
+        "desc": "Você e {player} faz o 4, o primeiro a errar bebe 2 doses",
+        "lvl": 2,
+        "repeats": 2,
+        "secret": true 
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Todos fazem o 4, o primeiro a errar bebe 2 doses",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Faça {sort(5-15)} abdominais e beba",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Faça {sort(5-15)} flexões e beba",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem tiver de roupa íntima {color} não bebe, os outros bebem",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem tiver de roupa íntima {color} não bebe, os outros bebem",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já entrou em coma alcoólico bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já deu PT bebe",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem vai dar PT hoje? O mais votado bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Jogue 'Par ou ìmpar' com {player}, quem perder bebe",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Jogue 'Par ou ìmpar' com {player}, quem perder bebe",
+        "lvl": 2,
+        "repeats": 2,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Jogue 'O Stop' com o tema 'Nome', o último que falar bebe 2 doses",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Jogue 'O Stop' com o tema 'Filme/Serie', o último que falar bebe 2 doses",
+        "lvl": 2,
+        "repeats": 2,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Jogue 'O Stop' com o tema 'Animal', o último que falar bebe 2 doses",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Jogue 'O Stop' com o tema 'Minha Sogra É', o último que falar bebe 2 doses",
+        "lvl": 2,
+        "repeats": 2,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Jogue 'O Stop' com o tema 'Objeto', o último que falar bebe 2 doses",
+        "lvl": 2,
+        "repeats": 2,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Jogue 'O Stop' com o tema 'Fruta', o último que falar bebe 2 doses",
+        "lvl": 2,
+        "repeats": 2,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Jogue 'O Stop' com o tema 'CEP', o último que falar bebe 2 doses",
+        "lvl": 2,
+        "repeats": 2,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Um de cada vez, termine a frase 'Bêbado só...' o primeiro que demorar pra completar bebe 2 doses",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "[LEIA EM SILÊNCIO] Ofenda o(a) {player} gratuitamente ou beba",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "[LEIA EM SILÊNCIO] Elogie o(a) {player} gratuitamente ou beba",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Agora você e {player} são do sexo oposto (a maldição acaba quando você jogar de novo)",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem votou nulo na última eleição bebe",
+        "lvl": 2,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já quebrou um osso bebe",
+        "lvl": 1,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já ficou com alguém por pena bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já dormiu pelado bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Escolha 1 cor, quem tiver usando uma peça de roupa dessa cor bebe",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Cada um bebe 1 dose para cada mil seguidores no instagram, quem tiver mais de 10mil não bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Deite no chão e beba 1 dose deitado",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Fique em um pé só até você beber 2 doses",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Fique em um pé só até você beber 2 doses",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "A partir de agora você e {player} devem agir feito bêbados (a maldição acaba quando for você de novo)",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Os desempregados bebem",
+        "lvl": 1,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Os empregados bebem",
+        "lvl": 2,
+        "repeats": 1
+    },
+    {
+        "desc": "Lamba o próprio cotovelo, se não conseguir bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já entupiu o banheiro bebe",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Você e {player} bebem igual recém-casados",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Você e {player} bebem igual recém-casados",
+        "lvl": 2,
+        "repeats": 2,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já repetiu de ano bebe",
+        "lvl": 2,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Todos bebem e cada um faz uma analise degustativa da bebida",
+        "lvl": 2,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem estiver com o celular na mão beba 2 doses",
+        "lvl": 2,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já foi bebado pra aula bebe",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já foi bebado pro trabalho bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Agora {player} é uma estátua até ter que beber, se se mover antes tome {sort(1-3)} doses",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já teve um WebRomance bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "[LEIA EM SILÊNCIO] Diga 'Do you speak english?', se alguém responder em inglês beba {sort(1-3)} doses",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Por 5 rodadas, sempre que beber {player} bebe também",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Por 5 rodadas, sempre que beber {player} bebe também",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já gastou mais de mil reais em uma noite bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já acordou em uma casa desconhecida bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem ta usando {color} bebe",
+        "lvl": 1,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem ta usando {color} bebe",
+        "lvl": 2,
+        "repeats": 2
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem tem mais chance de ir preso? O mais votado bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> O mais baixo e mais alto bebem",
+        "lvl": 2,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem daria um soco no melhor amigo por 1 milhão de reais bebe",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Todos bebem, menos o dono da casa",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Todos bebem, menos quem comprou as bebidas",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Todos devem repetir a próxima coisa que fizer, quem não repetir bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já pegou carona com desconhecido bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já usou drogas bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já colou na prova bebe",
+        "lvl": 1,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem nunca levou enquadro bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem nunca deu PT toma {sort(1-4)} doses",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já fez aniversário esse ano bebe",
+        "lvl": 1,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já levou enquadro bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem não fez aniversário esse ano bebe",
+        "lvl": 2,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já chorou bêbado bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem for ateu bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem usa iPhone bebe",
+        "lvl": 1,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem for virgem bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já fumou Narguile bebe",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já fumou Vape bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já fumou Pod bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já fumou cigarro bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Diga uma palavra, todos devem dizer algo que rima, se alguém enrolar bebe",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Diga uma palavra, todos devem dizer algo que rima, se alguém enrolar bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Escolhe 1 pessoa para beber",
+        "lvl": 1,
+        "repeats": 2
+    },
+    {
+        "desc": "Escolhe 1 pessoa para beber",
+        "lvl": 2,
+        "repeats": 3
+    },
+    {
+        "desc": "Você e {player} bebe",
+        "lvl": 1,
+        "repeats": 2,
+        "secret": true
+    },
+    {
+        "desc": "Você e {player} bebe",
+        "lvl": 2,
+        "repeats": 2,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já pegou os pais na intimidade bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Conte uma piada, quem rir toma 1 dose, se ninguém rir beba {sort(1-3)} doses",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Deixe desenharem uma monocelha em você ou beba {sort(1-3)} doses",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Faça o 4 por 10 segundos, se não conseguir beba 2 doses",
+        "lvl": 2,
+        "repeats": 2,
+        "secret": true
+    },
+    {
+        "desc": "Fique vendado(a) até tomar 4 doses",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem faz mais loucura bêbado? O mais votado bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> A partir de agora quem dizer a palavra 'NÃO' bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> A partir de agora só pode fazer PERGUNTAS (a maldição acaba quando você jogar de novo)",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem estiver estudando bebe",
+        "lvl": 1,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem estiver trabalhando bebe",
+        "lvl": 2,
+        "repeats": 1
+    },
+    {
+        "desc": "Coloque um cubo de gelo na boca e bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem não bebeu até agora bebe {sort(1-5)} doses",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já foi para fora do país bebe",
+        "lvl": 2,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Olhos abertos! O primeiro a piscar bebe",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Olhos abertos! O primeiro a piscar bebe",
+        "lvl": 2,
+        "repeats": 2,
+        "secret": true
+    },
+    {
+        "desc": "Beba 1 dose e de {sort(1-5)} giros 360 graus",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Beba 1 dose e de {sort(1-5)} giros 360 graus",
+        "lvl": 2,
+        "repeats": 2,
+        "secret": true
+    },
+    {
+        "desc": "Beba quantas doses quiser, {player} terá que tomar a mesma quantidade",
+        "lvl": 1,
+        "repeats": 2,
+        "secret": true
+    },
+    {
+        "desc": "Beba quantas doses quiser, {player} terá que tomar a mesma quantidade",
+        "lvl": 2,
+        "repeats": 3,
+        "secret": true
+    },
+    {
+        "desc": "Faça um desafio a {player}, se não fizer beba {sort(1-3)} doses",
+        "lvl": 1,
+        "repeats": 2,
+        "secret": true
+    },
+    {
+        "desc": "Faça um desafio a {player}, se não fizer beba {sort(1-3)} doses",
+        "lvl": 2,
+        "repeats": 3,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem tiver de chinelo bebe",
+        "lvl": 1,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem tem tattoo bebe",
+        "lvl": 2,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem não tem tattoo bebe",
+        "lvl": 1,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem tiver de jeans bebe",
+        "lvl": 2,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem tiver de moletom bebe",
+        "lvl": 2,
+        "repeats": 1
+    },
+    {
+        "desc": "Tente enrolar a língua, se não conseguir beba 2 doses",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Faça {sort(5-15)} agachamentos e bebe",
+        "lvl": 2,
+        "repeats": 1
+    },
+    {
+        "desc": "De um drink misterioso a {player} se descobrir o que é beba 2 doses",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Beba uma dose para cada ex que tiver",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem bebe mais? Todo mundo bebe menos o mais votado",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem tiver descalço bebe",
+        "lvl": 1,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem tiver de sutiã bebe",
+        "lvl": 2,
+        "repeats": 1
+    },
+    {
+        "desc": "Se já stalkeou alguém da roda bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Deixe {player} fazer um cotonete molhado em você ou beba {sort(1-3)} doses",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Você e {player} bebem {sort(1-3)} doses",
+        "lvl": 1,
+        "repeats": 2,
+        "secret": true
+    },
+    {
+        "desc": "Você e {player} bebem {sort(1-3)} doses",
+        "lvl": 2,
+        "repeats": 3,
+        "secret": true
+    },
+    {
+        "desc": "Tire uma foto com alguém que não está jogando ou beba {sort(1-3)} doses",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já sofreu acidente de carro bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já foi preso bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já sofreu acidente de carro bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Faça uma cambalhota ou beba {sort(1-3)} doses",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> O jogador mais gordo e o mais magro bebem",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Fique de quatro por {sort(1-3)} rodadas ou beba 2 doses",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> As mulheres bebem",
+        "lvl": 1,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> As mulheres bebem",
+        "lvl": 2,
+        "repeats": 2
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Os homens bebem",
+        "lvl": 1,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Os homens bebem",
+        "lvl": 2,
+        "repeats": 2
+    },
+    {
+        "desc": "Sente no chão até jogar novamente e beba 1 dose",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Deixe desenharem um bigode de Hitler em você ou beba {sort(1-3)} doses",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Os solteiros bebem",
+        "lvl": 2,
+        "repeats": 1
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem namora bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Deixe desenharem uma piroca em você ou beba {sort(1-3)} doses",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Prenda a respiração por 1 minuto, se conseguir {player} bebe 2 doses, se não você bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Deixem fazer um penteado diferente em você ou beba {sort(1-3)} doses",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Deixem fazer um penteado diferente em você ou beba {sort(1-3)} doses",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Ajoelhe e beije a mão de {player} ou beba {sort(1-3)} doses",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Passe batom ou beba {sort(1-3)} doses",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Passe batom ou beba {sort(1-3)} doses",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Descreva como você imagina a noite em que foi concebido ou beba {sort(1-3)} doses",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Faça um pix para {player} ou beba {sort(1-3)} doses",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem se masturbou esse mês bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem viu pornô esse mês bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já mandou nudes bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já beijou alguém do mesmo sexo bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Conte duas verdades e uma mentira, quem errar qual é a mentira bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Cada um diga um nome diferente para parte íntima, o último a dizer bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem já ficou com alguém da roda bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[TODOS]<alpha=#FF> Quem transou esse mês bebe",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Jokenpô com {player}, quem perder bebe",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Jokenpô com {player}, quem perder bebe",
+        "lvl": 2,
+        "repeats": 2,
+        "secret": true
+    },
+    {
+        "desc": "Fale um 'Eu nunca' quem já fez bebe",
+        "lvl": 2,
+        "repeats": 3,
+        "secret": true
+    },
+    {
+        "desc": "Pergunte para alguém fora do jogo o que é um beijo grego",
+        "lvl": 2,
+        "repeats": 1,
+        "secret": true
+    }
+]
